@@ -1,8 +1,6 @@
-<img src='readme-images/logo.jpeg' width='500' height='50' alt=' logo'/>
+<img src='readme-images/logo.jpeg' width='350' height='50' alt=' logo'/>
 
 # Responsive Web Design - Project 5
-
----
 
 ## HTML and CSS Portfolio
 
