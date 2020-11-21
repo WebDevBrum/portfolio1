@@ -10,8 +10,6 @@
 
 https://webdevbrum.github.io/portfolio1/
 
----
-
 ## Getting Started
 
 No pre requisite installation required. Built using HTML and CSS
